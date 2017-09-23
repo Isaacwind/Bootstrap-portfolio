@@ -1,0 +1,155 @@
+.container-full {
+	width: 980px;
+	margin: 0 auto;
+}
+
+nav {
+	height: 70px;
+}
+
+#logo {
+	background: #55a9a2;
+	color: white;
+}
+
+#logo > p {
+	margin-top: 10px;
+}
+
+#logo , #navbarNav{
+	height: 70px;
+}
+
+#navbarNav .nav-link {
+	height: 70px;
+	padding-top: 20px;
+	font-size: 16px;
+	color: gray;
+}
+
+#about {
+	margin-top: 70px;
+	background: #eee;
+	padding: 20px 0;
+}
+
+#about .left-section {
+	background: white;
+}
+
+.about-details > img {
+	width: 150px;
+	height: auto;
+	padding-right: 20px;
+}
+
+.social-buttons ul > li {
+	margin-right: 20px;
+}
+
+
+footer {
+	border-top: 8px solid #55a9a2;
+	background: #656465;
+	color: white;
+	height: 50px;
+	padding-top: 14px;
+}
+
+footer > p {
+	font-size: 12px;
+}
+
+
+
+
+
+#about .social-buttons {
+	background: white;
+}
+
+/* CONTACT PAGE STARTS */
+
+.container-full {
+	width: 980px;
+	margin: 0 auto;
+}
+
+nav {
+	height: 70px;
+}
+
+#logo {
+	background: #55a9a2;
+	color: white;
+}
+
+#logo > p {
+	margin-top: 10px;
+}
+
+#logo , #navbarNav{
+	height: 70px;
+}
+
+#navbarNav .nav-link {
+	height: 70px;
+	padding-top: 20px;
+	font-size: 16px;
+	color: gray;
+}
+
+#about {
+	margin-top: 70px;
+	background: #eee;
+	padding: 20px 0;
+}
+
+#about .left-section {
+	background: white;
+}
+
+.about-details > img {
+	width: 150px;
+	height: auto;
+	padding-right: 20px;
+}
+
+.social-buttons ul > li {
+	margin-right: 20px;
+}
+
+
+footer {
+	border-top: 8px solid #55a9a2;
+	background: #656465;
+	color: white;
+	height: 50px;
+	padding-top: 14px;
+}
+
+footer > p {
+	font-size: 12px;
+}
+
+
+
+
+#about .social-buttons {
+	background: white;
+}
+
+
+
+
+
+/* PORTFOLIO PAGE STARTS */
+
+#row {
+	width: 100%;
+}
+
+
+
+
+
